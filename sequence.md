@@ -25,9 +25,25 @@ and wish copies of the solutions for yourself, please contact Sundeep Rangan at 
     * [Demo:  Understanding automobile mpg](./simp_lin_reg/auto_mpg.ipynb)
     * [Lab: Boston housing data](./simp_lin_reg/lab_housing_partial.ipynb). To be 
       completed by the student.
+* [More `numpy`:  Python broadcasting](./Basics/numpy_axes_broadcasting.ipynb)      
 * [Multiple linear regression](./mult_lin_reg/readme.md)
     * [Demo:  Predicting glucose levels](./mult_lin_reg/glucose.ipynb)
     * [Lab: Calibrating robot dynamics](./mult_lin_reg/lab_robot_calib_partial.ipynb) To be completed by the student.
+* [Model selection and regularization](./model_sel/readme.md)
+    * [Demo:  Polynomial order selection with cross-validation](./model_sel/polyfit.ipynb)
+    * [Demo:  LASSO regression for finding predictors of prostate cancer](./model_sel/prostate.ipynb) 
+    * [Lab: Neural decoding of motor cortex signals](./model_sel/lab_neural_partial.ipynb) To be completed by the student.
+* [Logistic Regression](./logistic/readme.md)
+    * [Demo:  Breast cancer diagnosis via logistic regression](./logistic/breast_cancer.ipynb)
+    * [Lab: Genetic analysis of Down's syndrome in mice](./logistic/lab_gene_partial.ipynb) To be completed by the student.
+    
+Items to be added over the course of this semester:
 
+* Support Vector Machines (SVMs)
+* Introduction to Tensorflow
+* Neural networks
+* Convolutional neural networks
+* PCA
+* Clustering and EM
 
 
